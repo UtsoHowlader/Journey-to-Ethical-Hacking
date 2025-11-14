@@ -1,0 +1,3 @@
+Today I finished upto "join and split". It's not a lot. I am having issues with join and split.
+also, I thing /var/log/logsys doesn't works in the newer versions. I had to use other directories. But journalctl serves the same purpose as /var/log/logsys in the newer version
+of linux. 
